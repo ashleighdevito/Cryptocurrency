@@ -30,3 +30,10 @@ The general curve shape was similar. However, some platforms were far more volat
 ![alt text](https://github.com/ashleighdevito/Cryptocurrency/blob/main/1_Presentation/output/june2018_thru_june202_socke_indexes_volume.png "Stock Volumes")
 
 ![alt text](https://github.com/ashleighdevito/Cryptocurrency/blob/main/1_Presentation/output/crypto_volume.png "Crypto Volumes")
+
+
+***
+**Limitations**
+***
+Our comparisons were performed using only one social media platform, Reddit.  There may be other platforms, or a collection, that has a graeter relationship with the markets.  
+Also, these conclusions are drawn only within the bounds of this time frame.  Relationships may have varied before or since.
