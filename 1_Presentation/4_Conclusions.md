@@ -8,7 +8,7 @@ What we found:
 
 Social media mentions related most closely with the traditional stock market price fluctuations, not our expectation. There was a weak correlation between number of comments on Reddit and most cryptocurrency's values or volume.  
 
-![alt text](https://github.com/ashleighdevito/Cryptocurrency/blob/main/1_Presentation/output/bitcoin_volume_and_comments.png "Bitcoin Daily Price Change and Number of Reddit Comments")
+![alt text](https://github.com/ashleighdevito/Cryptocurrency/blob/main/1_Presentation/output/bitcoin_price_change_and_comments.png "Bitcoin Daily Price Change and Number of Reddit Comments")
 
 The correlation between number of Reddit comments to Dow Jones Volume over the time period of June 1, 2018 to June 30, 2020 is 0.7775. 
 Between Reddit comments to Dow Jones Daily Price Range over the same period is 0.8208.  
