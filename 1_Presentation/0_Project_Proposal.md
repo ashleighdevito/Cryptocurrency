@@ -1,6 +1,6 @@
 In this project we aim to examine the relationship between social media’s influence on large market share cryptocurrencies as well as any correlation between traditional stock market and cryptocurrency performance.
 ***
-**Are there any trends in cryptocurrency performance related to mentions on Twitter?  
+**Are there any trends in cryptocurrency performance related to social media mentions?  
 Does the performance of cryptocurrencies relate to the traditional stock market?**
 ***
 Data will be gathered from June 2018 through June 2020.
