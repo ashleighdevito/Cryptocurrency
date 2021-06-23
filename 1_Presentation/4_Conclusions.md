@@ -25,7 +25,7 @@ The correlation between Bitcoin Close Price to Dow Jones Close Price over the ti
 
 ![alt text](https://github.com/ashleighdevito/Cryptocurrency/blob/main/1_Presentation/output/dow_vs_bitcoin.png "Dow Jones vs Bitcoin Closing Price")
 
-The general curve shape was similar. However, some platforms were far more volatile or were weighted by significanlty differing values.
+The general curve shape is similar. However, some platforms were far more volatile or were weighted by significantly differing values.
 
 ![alt text](https://github.com/ashleighdevito/Cryptocurrency/blob/main/1_Presentation/output/june2018_thru_june202_socke_indexes_volume.png "Stock Volumes")
 
